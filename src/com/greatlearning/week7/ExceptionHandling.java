@@ -1,4 +1,4 @@
-package com.greatlearning.week6;
+package com.greatlearning.week7;
 
 public class ExceptionHandling extends Exception{
     String err;

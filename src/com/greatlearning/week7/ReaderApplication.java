@@ -1,7 +1,6 @@
-package com.greatlearning.week6;
+package com.greatlearning.week7;
 
 import java.io.IOException;
-import java.util.HashMap;
 
 public class ReaderApplication {
     public static void main(String args[]) throws IOException, ClassNotFoundException, InstantiationException, IllegalAccessException {
