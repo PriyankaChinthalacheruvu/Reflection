@@ -1,0 +1,6 @@
+******** Log For Last Session ********
+
+Main menu
+com.greatlearning.week7.MainMenu
+ enterMenu
+ getsubmenu
