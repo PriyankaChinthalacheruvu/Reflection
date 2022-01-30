@@ -6,6 +6,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 
 public class Logger {
+
     //create log file
     static File logfile = new File("reading-log-file.txt");
     static FileWriter fw;

@@ -13,6 +13,7 @@ public class ReaderApplication {
         //Main Menu Driven Class obj
         MainMenu stu = new MainMenu();
         stu.enterMenu();
+
         //Saving Log
         log.saveLog();
     }
