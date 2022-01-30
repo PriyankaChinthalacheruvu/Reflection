@@ -147,6 +147,7 @@ public class MainMenu {
         if(menusubChoice==1) {
             MainSubMenu studentsSubMenu = new MainSubMenu();
             studentsSubMenu.entersubMenu(out);
+
         }
         else if(menusubChoice==0){
             System.out.println("Do you want to EXIT !! ? \n Press 1 if yes 0 if no");

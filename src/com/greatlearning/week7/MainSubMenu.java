@@ -22,7 +22,7 @@ public class MainSubMenu extends MainMenu {
         System.out.println(" ");
         Scanner scanner = new Scanner(System.in);
         System.out.println ("Press any key:");
-        menuChoice = scanner.nextInt();
+        int menuChoice = scanner.nextInt();
         switch (menuChoice) {
             case 1:
                 //printing log in file
